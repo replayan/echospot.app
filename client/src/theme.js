@@ -29,7 +29,7 @@ export const colorTokens = {
   },
 };
 
-// mui theme settings
+// mui theme settings for dark and light mode
 export const themeSettings = (mode) => {
   return {
     palette: {
